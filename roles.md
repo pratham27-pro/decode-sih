@@ -20,10 +20,10 @@ combination confirmed to authenticate) — not copied from an old note.
 ## 2. School Admin (Branch Administrator)
 
 - **Role**: `school`
-- **School Name**: `LPS Karkarduma`
-- **Branch Name**: `LPS Karkarduma Branch`
-- **Student Prefix**: `LKD`
-- **Email**: `school@lps.edu`
+- **School Name**: `abc Public School`
+- **Branch Name**: `south Delhi`
+- **Student Prefix**: `abc`
+- **Email**: `test@abc.in`
 - **Password**: `123456789`
 - **Capabilities**:
   - Manage class curriculum modules (PDF, Image-to-PDF OCR, NCERT books).
